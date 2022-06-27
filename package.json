@@ -1,0 +1,22 @@
+{
+  "name": "superonline-cli",
+  "version": "0.0.1",
+  "description": "See if you can use Turkcell Superonline in your building",
+  "author": {
+    "name": "Yağızhan Burak Yakar (evrifaessa)",
+    "url": "https://github.com/evrifaessa"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evrifaessa/superonline-cli.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/evrifaessa/superonline-cli/issues"
+  },
+  "homepage": "https://github.com/evrifaessa/superonline-cli#readme"
+}
